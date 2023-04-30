@@ -1,2 +1,2 @@
 # pattern_printing
-print pattern using star(*)
+print A to Z english charector pattern using star(*)
